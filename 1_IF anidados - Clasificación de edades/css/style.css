@@ -1,0 +1,17 @@
+/* estilo para la página de edad */
+body {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+h1 {
+  margin-bottom: 1rem;
+}
+#categoria {
+  font-size: 1.2rem;
+  margin-top: 1rem;
+  font-weight: bold;
+}
