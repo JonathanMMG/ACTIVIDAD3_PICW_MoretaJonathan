@@ -22,4 +22,5 @@ if (isNaN(edad) || edad < 0) {
 // muestra igual en consola y en pantalla
 console.log(categoria)
 document.getElementById("categoria").textContent = categoria
-// ajustes
+// ajustes final
+
